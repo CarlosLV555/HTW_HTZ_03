@@ -1,0 +1,1 @@
+var json_Fahrradparkpltze_4 = {"type":"FeatureCollection","name":"Fahrradparkpltze_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Dach.Art":"Offen"},"geometry":{"type":"Point","coordinates":[6.9353913,49.2449873]}}]}
